@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/css/clay_css_2_recipes/01_getting_started.md).
+
 # Getting Started
 
 This cookbook is based on Liferay Portal 7.2.1 GA2 which uses [Clay CSS v2.18.1](https://github.com/liferay/clay/tree/0568f0a1ffb82b0bc85321b10cb32ff5f68e2cc1/packages/clay-css/src/scss).

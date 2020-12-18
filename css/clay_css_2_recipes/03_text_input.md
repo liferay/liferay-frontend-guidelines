@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/css/clay_css_2_recipes/03_text_input.md).
+
 # Text Input
 
 This recipe will modify the input class, `.form-control`, in Clay CSS to match Material Design's Filled Text Field shown in [https://material.io/components/text-fields/](https://material.io/components/text-fields/). The Material Design site uses several HTML elements with JavaScript to create the style. We will try to duplicate it using only the `input` element.

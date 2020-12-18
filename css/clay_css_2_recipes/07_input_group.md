@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/css/clay_css_2_recipes/07_input_group.md).
+
 # Input Group
 
 This recipe will match Input Group to [Material Design's Filled Text with Leading and Trailing Icons](https://material.io/components/text-fields#anatomy). Clay CSS' Input Groups were modified to accommodate many types of designs. This component is markup-heavy, but it allows for more customization versus Bootstrap 4's Input Groups.

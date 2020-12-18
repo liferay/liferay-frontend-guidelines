@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/dxp/code_review.md).
+
 # Frontend Infrastructure Team code review process
 
 These are guidelines that the Frontend Infrastructure Team follows when developing code for Liferay DXP. While some of the details are specific to our team, we're sharing them here because they may prove useful to other teams as well in the development of their own code review processes.
