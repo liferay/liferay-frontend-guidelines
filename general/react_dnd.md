@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/general/react_dnd.md).
+
 # React Dnd
 
 react-dnd is a powerful and flexible drag and drop library for React, but there are some gaps in its documentation. Anyway, this is not intended to be a full replacement of react-dnd docs but just some guides and tips to use it on a React application via hooks. For full API reference visit https://react-dnd.github.io/react-dnd/

@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/dxp/aspect_oriented_programming.md).
+
 # Aspect Oriented Programming (AOP) guidelines
 
 AOP provides tools to improve control of what is executed before and after another method is invoked. You can find this component in the [`frontend-js-web`](https://github.com/liferay/liferay-portal/tree/c0c13433600398fed8768f539aa8212978f7409c/modules/apps/frontend-js/frontend-js-web) module.

@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/dxp/liferay_global_event_bus.md).
+
 # Liferay's Global Event Bus
 
 [Liferay's global event bus](https://github.com/liferay/yui3/blob/master/src/event-custom/js/event-target.js#L120) implementation allows developers to publish and listen to custom events from anywhere inside DXP.

@@ -1,3 +1,5 @@
+> :warning: The contents of this repo have been migrated [to the `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects) and more specifically to the [to the `guidelines/` directory](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines). Maintenance will continue there, and this repo will be archived (ie. switched to read-only mode). Depending on whether files have moved in the new repo, you may be able to see the current version of this page at [this location](https://github.com/liferay/liferay-frontend-projects/tree/master/guidelines/dxp/clay-css-3-intro.md).
+
 # Introduction to @clayui/css (3.x)
 
 Clay CSS is the web implementation of <a href="https://liferay.design/lexicon/get-started/" rel="noreferrer noopener" target="_blank">Liferay’s Experience Language</a>. This is a system for building applications in and outside of Liferay, designed to be fluid and extensible, as well as provide a consistent and documented API.
